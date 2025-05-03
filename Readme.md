@@ -20,7 +20,7 @@ This project uses deep learning techniques (via PyTorch) to classify medical ima
 
 ### 🚀 Getting Started
 
-1. Download dataset from `kaggke`: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+1. Download dataset from `kaggle`: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
 2. Run the Jupyter notebook:
 
