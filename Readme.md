@@ -26,7 +26,7 @@ This project uses deep learning techniques (via PyTorch) to classify medical ima
 
 3. Follow the cells to train and evaluate your model.
 
-## 📊 Example Output
+## 📊 Output
 
 * Predicitons :
   <br/>
