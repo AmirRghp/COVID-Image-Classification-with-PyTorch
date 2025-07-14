@@ -14,7 +14,7 @@ This project uses deep learning techniques (via PyTorch) to classify medical ima
 
 * **Data loading**: Custom `ImageFolder` loaders using torchvision
 * **Transformations**: Image preprocessing with `transforms.Compose`
-* **Model**: A pre-trained CNN (ResNet50 , VGG19) adapted for binary/multiclass classification
+* **Model**: A pre-trained CNN (ResNet50 , VGG19, Efficient net 0B) adapted for binary/multiclass classification
 * **Training**: Uses standard PyTorch training loop with accuracy/loss tracking
 * **Evaluation**: Includes model evaluation and visualization with matplotlib
 
@@ -28,12 +28,18 @@ This project uses deep learning techniques (via PyTorch) to classify medical ima
 
 ## 📊 Output
 
+* Train and Validation Loss and Accuracy :
+  <br/>
+  ![App Screenshot](ScreenShots/4.png)
 * Predicitons :
   <br/>
-  ![download](https://github.com/user-attachments/assets/81ca2c21-bbd6-44da-9d0d-5efddc452c5e)
+   ![App Screenshot](ScreenShots/5.png)
 * Confusion Matrix:
   <br/>
   ![App Screenshot](ScreenShots/con.png)
+  * Eval Metrics:
+  <br/>
+  ![App Screenshot](ScreenShots/1.png)
 
 ## 📄 License
 
