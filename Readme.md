@@ -33,7 +33,7 @@ This project uses deep learning techniques (via PyTorch) to classify medical ima
   ![download](https://github.com/user-attachments/assets/81ca2c21-bbd6-44da-9d0d-5efddc452c5e)
 * Confusion Matrix:
   <br/>
-  ![download](https://github.com/user-attachments/assets/223977fa-3007-403c-ba1d-0caedfd28ec1)
+  ![App Screenshot](ScreenShots/con.png)
 
 ## 📄 License
 
