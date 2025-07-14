@@ -37,7 +37,7 @@ This project uses deep learning techniques (via PyTorch) to classify medical ima
 * Confusion Matrix:
   <br/>
   ![App Screenshot](ScreenShots/con.png)
-  * Eval Metrics:
+* Eval Metrics:
   <br/>
   ![App Screenshot](ScreenShots/1.png)
 
